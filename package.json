@@ -1,0 +1,30 @@
+{
+  "name": "@zapal/cra-template-typescript",
+  "version": "0.1.0",
+  "keywords": [
+    "zapal",
+    "tech",
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "The base TypeScript template for Create React App created by Zapal.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zapal-tech/cra-template-typescript.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "bugs": {
+    "url": "https://github.com/zapal-tech/cra-template-typescript/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "homepage": "https://github.com/zapal-tech/cra-template-typescript#readme",
+  "author": "Bohdan Kucheriavyi <bohdan.kucheriavyi@zapal.tech>"
+}
